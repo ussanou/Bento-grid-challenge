@@ -1,3 +1,33 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.purple-1{
+  color : hsl(254, 88%, 90%)
+}
+
+.purple-2{
+  color : hsl(256, 67%, 59%)
+}
+.yellow-1{
+  color : hsl(31, 66%, 93%)
+}
+
+.yellow-2{
+  color : hsl(39, 100%, 71%)
+}
+.bg-yellow-1{
+  background-color : hsl(31, 66%, 93%)
+}
+
+.bg-yellow-2{
+  background-color : hsl(39, 100%, 71%)
+}
+
+.bg-purple-1{
+  background-color : hsl(254, 88%, 90%)
+}
+.bg-purple-2{
+  background-color: hsl(256, 67%, 59%)
+}
